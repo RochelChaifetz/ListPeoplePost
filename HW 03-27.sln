@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW 03-27", "HW 03-27\HW 03-27.csproj", "{E4C93AF7-D04F-45A5-A65E-65AAD5E50462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPeoplePost", "ListPeoplePost\ListPeoplePost.csproj", "{2BF08375-0FBC-456C-BEEB-64787A3F92FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C93AF7-D04F-45A5-A65E-65AAD5E50462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C93AF7-D04F-45A5-A65E-65AAD5E50462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C93AF7-D04F-45A5-A65E-65AAD5E50462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C93AF7-D04F-45A5-A65E-65AAD5E50462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF08375-0FBC-456C-BEEB-64787A3F92FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF08375-0FBC-456C-BEEB-64787A3F92FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF08375-0FBC-456C-BEEB-64787A3F92FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF08375-0FBC-456C-BEEB-64787A3F92FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DA5563F-B093-4CEF-BA6E-D688974EE7C5}
+	EndGlobalSection
+EndGlobal
